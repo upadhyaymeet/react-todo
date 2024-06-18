@@ -24,6 +24,7 @@ A React-todo app with feature of Create, update, delete, Read your daily base to
 - Configured TailwindCss
 - Project structre created.
 - Configured react-redux and redux-toolkit.
+- Delete and add Todo working.
 
 ## Learn More
 
