@@ -22,6 +22,7 @@ A React-todo app with feature of Create, update, delete, Read your daily base to
 - Create react app.
 - CleanUp files and setup project.
 - Configured TailwindCss
+- Project structre created.
 
 ## Learn More
 

@@ -1,10 +1,11 @@
+import { Home } from "./pages";
 
-function App() {
-  return (
-    <div className="font-bold text-xl bg-red-500">
-        Hello Tailwind Configured
-    </div>
+const App = () =>{
+  return(
+    <>
+    <Home />
+    </>
   );
-}
+};
 
 export default App;
