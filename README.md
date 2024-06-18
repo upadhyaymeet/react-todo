@@ -20,7 +20,8 @@ A React-todo app with feature of Create, update, delete, Read your daily base to
 ## Steps
 
 - Create react app.
-- 
+- CleanUp files and setup project.
+- Configured TailwindCss
 
 ## Learn More
 

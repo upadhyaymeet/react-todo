@@ -1,8 +1,8 @@
 
 function App() {
   return (
-    <div className="App">
-     <h1>Todo App</h1>
+    <div className="font-bold text-xl bg-red-500">
+        Hello Tailwind Configured
     </div>
   );
 }
