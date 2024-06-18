@@ -6,9 +6,21 @@ A React-todo app with feature of Create, update, delete, Read your daily base to
 
 ## Features
 
+- HomePage
+    - Input box and add button
+    - Read latest todo
+- Use Redux to store data globaly at center place
+- Todo
+    1.Add
+    2.Update
+    3.Delete
+    4.Read
 
 
 ## Steps
+
+- Create react app.
+- 
 
 ## Learn More
 
